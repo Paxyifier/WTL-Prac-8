@@ -4,7 +4,7 @@
 
 ### Theory:
  - Introduction to AngularJS, MVC Architecture, Installation
- - ng attributes, Expressions: Number and String Expressions, Object Binding and Expressions
+ - Explain all 5 ng attributes, Expressions: Number and String Expressions, Object Binding and Expressions
 ### Questions 
 1. Create an Angular JS application to accept a number from user and display its multiplication table (Use ng-init and ng-repeat)
 
